@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/nunzio-gianfelice/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nunzio%20Gianfelice-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <img alt="Location" src="https://img.shields.io/badge/📍-Naples%2C%20Italy-lightgrey?style=flat-square">
+  <img alt="Location" src="https://img.shields.io/badge/🏙️-Bari-lightgrey?style=flat-square">
 </p>
 
 ---
