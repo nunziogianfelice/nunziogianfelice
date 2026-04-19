@@ -65,18 +65,6 @@ Se qualcosa può essere automatizzato, lo automatizzo. Se qualcosa può essere r
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunziogianfelice&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=cdccca" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunziogianfelice&theme=dark&hide_border=true&background=0d1117&stroke=4f98a3&ring=4f98a3&fire=FF6B6B&currStreakLabel=cdccca" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💬 Parliamoci
 
 Se stai costruendo qualcosa nell'ambito degli **AI agent**, **automazione aziendale** o **infrastruttura cloud** e vuoi scambiare idee, collaborare o semplicemente chiacchierare di tech — scrivimi.
