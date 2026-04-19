@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey, I'm Nunzio Gianfelice</h1>
+<h1 align="center">👋 Hey, sono Nunzio Gianfelice</h1>
 
 <p align="center">
-  <a href="./README.it.md">🇮🇹 Italiano</a>
+  <a href="./README.md">🇬🇧 English</a>
 </p>
 
 <h3 align="center">Founder & CTO · AI Agent Builder · Full-Stack Developer</h3>
@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 About me
+## 🚀 Chi sono
 
-I'm a **founder and CTO** with over 15 years of experience in software, focused on building **AI agent systems** and B2B SaaS platforms.
+Sono un **founder e CTO** con oltre 15 anni di esperienza nel mondo del software, specializzato nella costruzione di **AI agent systems** e piattaforme B2B SaaS.
 
-Today I lead product, infrastructure, and engineering at [**SWITCH AI**](https://github.com/Switch-Street-WITCHer), an AI platform for fleet operators and urban mobility players that processes hundreds of millions of trips per month across Europe.
+Oggi guido prodotto, infrastruttura ed engineering di [**SWITCH AI**](https://github.com/Switch-Street-WITCHer), una piattaforma di AI per fleet operator e player della mobilità urbana che elabora centinaia di milioni di viaggi al mese in Europa.
 
-If something can be automated, I automate it. If something can be made intelligent, I put an agent on top of it.
+Se qualcosa può essere automatizzato, lo automatizzo. Se qualcosa può essere reso intelligente, ci metto un agente sopra.
 
 ---
 
-## 🧠 Tech stack & current focus
+## 🧠 Tech Stack & Focus Attuale
 
 ### AI & Agents
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-black?style=flat-square&logo=anthropic&logoColor=white)
@@ -53,27 +53,27 @@ If something can be automated, I automate it. If something can be made intellige
 
 ---
 
-## 🔭 What I'm working on
+## 🔭 Su cosa sto lavorando
 
-- 🤖 **AI Agents** on Vertex AI with Claude for end-to-end business workflows
-- 🏗️ **SWITCH AI** — B2B SaaS platform with native AI integration
-- 🔌 Custom **MCP servers** for enterprise integrations
-- ⚡ **Automation pipelines** with ActivePieces + Google Cloud Functions
-
----
-
-## 🌱 What I'm exploring
-
-- Multi-agent architectures with advanced orchestration
-- Self-hosted LLM deployment for enterprise scenarios
-- Agentic RAG with vector databases
-- New patterns for AI-first product development
+- 🤖 **AI Agents** su Vertex AI con Claude per workflow aziendali end-to-end
+- 🏗️ **SWITCH AI** — piattaforma B2B SaaS con integrazione AI nativa
+- 🔌 **MCP Servers** personalizzati per integrazioni enterprise
+- ⚡ **Automation pipelines** con ActivePieces + Google Cloud Functions
 
 ---
 
-## 💬 Let's connect
+## 🌱 Cosa sto esplorando
 
-If you're building something around **AI agents**, **business automation**, or **cloud infrastructure** and want to swap ideas, collaborate, or just talk tech — get in touch.
+- Architetture multi-agente con orchestrazione avanzata
+- Self-hosted LLM deployment per scenari enterprise
+- Agentic RAG con database vettoriali
+- Nuovi pattern per AI-first product development
+
+---
+
+## 💬 Parliamoci
+
+Se stai costruendo qualcosa nell'ambito degli **AI agent**, **automazione aziendale** o **infrastruttura cloud** e vuoi scambiare idee, collaborare o semplicemente chiacchierare di tech — scrivimi.
 
 <p align="center">
   <a href="https://www.nunziogianfelice.it" target="_blank"><b>🌐 nunziogianfelice.it</b></a>
@@ -84,5 +84,5 @@ If you're building something around **AI agents**, **business automation**, or *
 ---
 
 <p align="center">
-  <sub>"If it can be automated, why do it by hand?" 🤖</sub>
+  <sub>"Se qualcosa si può automatizzare, perché farlo a mano?" 🤖</sub>
 </p>
