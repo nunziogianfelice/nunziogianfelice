@@ -16,7 +16,7 @@
 
 Sono un **founder e CTO** con oltre 15 anni di esperienza nel mondo del software, specializzato nella costruzione di **AI agent systems** e piattaforme B2B SaaS.
 
-Attualmente guido [**SWITCH AI**](https://github.com/Switch-Street-WITCHer) — una piattaforma B2B che porta l'intelligenza artificiale nei flussi di lavoro aziendali reali.
+Oggi guido prodotto, infrastruttura ed engineering di [**SWITCH AI**](https://github.com/Switch-Street-WITCHer), una piattaforma di AI per fleet operator e player della mobilità urbana che elabora centinaia di milioni di viaggi al mese in Europa.
 
 Se qualcosa può essere automatizzato, lo automatizzo. Se qualcosa può essere reso intelligente, ci metto un agente sopra.
 
